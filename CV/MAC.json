@@ -47,6 +47,41 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Tetris",
+          "description": "Tetris, juego de arcade basado en programación orientada a objetos",
+          "URL": "https://physiodevapp.github.io/tetris/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/13/361f10c5-407c-4cb4-ad15-c6992dd1268e_diseno-tetris-readme.png",
+            "alt": "Diseño tetris readme.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-12-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-01-01"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
@@ -237,6 +272,11 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
-    "desiredJobDescription": "Me gustaría trabajar en un puesto que se cuidara el diseño final, que implemente funcionalidades nuevas, seguridad y procesamiento de los datos. \n\nValoraría poder experimentar e implementar nuevas funcionalidades del código. \n\nUn trabajo dentro de un equipo pero con cierta autonomía en solitario. Un equipo mediano o grande. Con gente cercana, abierta, colaborativa.\n\nUn trabajo híbrido preferentemente, l. Me gustaría preferentemente que fuese dentro del sector Tech o sector X-Tech.\n\nLo que más valoraría sería la flexibilidad horaria y el crecimiento profesional (cursos, formaciones, carrera profesional…) "
+    "desiredJobDescription": "Me gustaría trabajar en un puesto que se cuidara el diseño final, que implemente funcionalidades nuevas, seguridad y procesamiento de los datos. \n\nValoraría poder experimentar e implementar nuevas funcionalidades del código. \n\nUn trabajo dentro de un equipo pero con cierta autonomía en solitario. Un equipo mediano o grande. Con gente cercana, abierta, colaborativa.\n\nUn trabajo híbrido preferentemente, l. Me gustaría preferentemente que fuese dentro del sector Tech o sector X-Tech.\n\nLo que más valoraría sería la flexibilidad horaria y el crecimiento profesional (cursos, formaciones, carrera profesional…) ",
+    "projects": [
+      {
+        "name": "Tetris"
+      }
+    ]
   }
 }
