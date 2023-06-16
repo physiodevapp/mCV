@@ -192,6 +192,12 @@
   },
   "careerPreferences": {
     "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/edu-gamboa/",
+          "type": "linkedin"
+        }
+      ],
       "contactMails": [
         "edu.gamboa.rodriguez@gmail.com"
       ],
