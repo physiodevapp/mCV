@@ -206,12 +206,6 @@
       },
       {
         "skill": {
-          "name": "Capacidad de escucha",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
           "name": "Trabajo en equipo",
           "type": "practice"
         }
