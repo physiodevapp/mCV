@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -16,7 +16,17 @@
         "region": "Comunidad de Madrid",
         "municipality": "Madrid"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/edu-gamboa/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/physiodevapp"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -94,10 +104,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -199,17 +211,11 @@
         },
         {
           "URL": "https://github.com/physiodevapp",
-          "type": "other"
+          "type": "github"
         }
       ],
       "contactMails": [
         "edu.gamboa.rodriguez@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "689854818",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
