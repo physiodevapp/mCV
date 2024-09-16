@@ -146,13 +146,13 @@
       },
       {
         "skill": {
-          "name": "MVC",
+          "name": "Laravel",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": "MVC",
           "type": "technology"
         }
       },
@@ -170,6 +170,12 @@
       },
       {
         "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "REST",
           "type": "technology"
         }
@@ -177,6 +183,12 @@
       {
         "skill": {
           "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
           "type": "technology"
         }
       }
@@ -294,6 +306,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Laravel",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Redux",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Me gustaría trabajar en un puesto que se cuidara el diseño final, que implemente funcionalidades nuevas, seguridad y procesamiento de los datos. \n\nValoraría poder experimentar e implementar nuevas funcionalidades del código. \n\nUn trabajo dentro de un equipo pero con cierta autonomía en solitario. Un equipo mediano o grande. Con gente cercana, abierta, colaborativa.\n\nUn trabajo híbrido preferentemente, l. Me gustaría preferentemente que fuese dentro del sector Tech o sector X-Tech.\n\nLo que más valoraría sería la flexibilidad horaria y el crecimiento profesional (cursos, formaciones, carrera profesional…) ",
     "projects": [
       {
