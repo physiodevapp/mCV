@@ -8,8 +8,8 @@
     "profile": {
       "name": "Eduardo",
       "surnames": "Gamboa Rodríguez",
-      "title": "Full Stack Developer",
-      "description": "Siempre me ha gustado la sensación de que las piezas encajen y se transformen en algo nuevo con aplicaciones diferentes. \n\nPoco a poco tras años de clínica, formación y charlas con compañeros fisioterapeutas sobre la necesidad de buscar mejores formas de ayudar a las personas mi vocación se unió a mi pasión por la tecnología al intentar convertir los smartphones en una herramienta con un doble objetivo: facilitar la vida al fisio sin dejar de beneficiar al paciente.  Y así llegó mi punto de inflexión: los sensores de movimiento del móvil y las interfaces de usuario, es decir, JavaScript y HTML con CSS. En una palabra, el código. \n\nEl código me descubrió un mundo de nuevas posibilidades donde combinar mi vocación por ayudar a las personas con mi pasión por la tecnología. Así, la programación fue llenando mis horas libres, hasta que, tras algunos años de curiosidad probando distintas tecnologías, recientemente di el paso definitivo con el bootcamp de desarrollo web en Ironhack. \n\nY aunque grande, en cierto modo, el cambio ha sido un pequeño ajuste en los términos que, sin embargo, ha hecho crecer mi campo de acción ya que, ahora, mi finalidad es ayudar a mejorar la vida de las personas, pacientes o no, a través del código.\n",
+      "title": "Full Stack Developer - Javascript (ES6) | PHP/Laravel | SQL | MongoDB | ExpressJS | NodeJS | React/Redux | DevOps | TypeScript | Testing",
+      "description": "¡Hola! 👋 😀\n\nSoy alguien que cree firmemente en la capacidad de la tecnología para acercarnos y hacernos la vida más fácil.\n\nComprometido con un desarrollo web que acerque a las personas. Disfruto uniendo lógica y creatividad mediante la programación para construir soluciones prácticas que ayuden a crear relaciones más humanas.\n\nCon 8 años de experiencia en el sector de la salud y el ámbito docente universitario, mi vocación por aprender, educar y ayudar a las personas se vuelca ahora en mi pasión y compromiso incansables por innovar mediante ReactJS, ExpressJS, MongoDB, API Rest, Axios, Javascript, HTML5, CSS, Bootstrap, NodeJS\n\nCurioso y apasionado por los retos que conllevan aprendizajes nuevos en el mundo de la programación y las nuevas tecnologías. Me gusta trabajar en solitario, al mismo tiempo que disfruto del potencial del trabajo en equipo. Me atrae el mundo web tanto como las aplicaciones móviles. Mi vocación: mejorar la vida de las personas.\n\nSi quieres saber más sobre mí y mi trabajo, no dudes en ponerte en contacto. Estaré encantado de conversar contigo.\n\n📨 edu.gamboa.rodriguez@gmail.com\n📞 689 854 818",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/16/5db1c3df-74fc-49c1-90bf-1788ddc4d243_abstract-profile-pho.png",
         "alt": "Abstract Profile Photo Instagram Post 4.png"
@@ -36,16 +36,32 @@
     "jobs": [
       {
         "organization": {
-          "name": "CSEU La Salle Campus Madrid"
+          "name": "OXYGEN Workspace"
+        },
+        "roles": [
+          {
+            "name": "Junior Full Stack Developer",
+            "startDate": "2024-05-01",
+            "challenges": [
+              {
+                "description": "Proyecto completo que abarca tres componentes clave:\n\nPortal Web para Clientes:\n- Tecnologías utilizadas: HTML, SASS, Javascript y PHP (Laravel).\n- Interfaz intuitiva y optimizada para ofrecer una buena experiencia de usuario.\n\nDashboard para Trabajadores:\n- Tecnologías utilizadas: React y TypeScript.\n- Implementación de un sistema de gestión de datos para realizar modificaciones sobre la base de datos.\n\nAPI para Comunicación entre Frontend y Backend:\n- Tecnologías utilizadas: NodeJs, Express, MongoDB y MySQL.\n- API escalable para interactuar de forma segura entre el cliente y la base de datos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "La Salle Campus Madrid"
         },
         "roles": [
           {
             "name": "Profesor Titular Universitario",
             "startDate": "2016-09-01",
-            "finishDate": "2020-09-01",
+            "finishDate": "2020-09-30",
             "challenges": [
               {
-                "description": "• Contribuir en la formación académica de futuros profesionales de la fisioterapia\n• Tutorizar prácticas clínicas de alumnos de fisioterapia\n\nTecnologías: Microsoft PowerPoint, Microsoft Excel, Moodle\n\nAptitudes: Tecnología de la información · Español · Docencia"
+                "description": "• Contribuir en la formación académica de futuros profesionales de la fisioterapia\n• Tutorizar prácticas clínicas de alumnos de fisioterapia\n\nTecnologías: Microsoft PowerPoint, Microsoft Excel, Moodle"
               }
             ]
           }
@@ -59,9 +75,44 @@
           {
             "name": "Fisioterapeuta",
             "startDate": "2015-11-01",
+            "finishDate": "2024-04-30",
             "challenges": [
               {
-                "description": "• Rehabilitar pacientes con trastornos musculoesqueléticos\n• Implementar solución para la recogida de datos clínicos\n• Generar contenido de educación para la salud en la web\n\nTecnologías: SharePoint, Power Apps, Power Automate, HTML, CSS\n\nAptitudes: Compromiso con el trabajo · Resiliencia · Persistencia · Emprendimiento creativo · Comunicación asertiva · Trabajo en equipo · SharePoint · Microsoft Power Automate · Microsoft PowerApps"
+                "description": "• Rehabilitar pacientes con trastornos musculoesqueléticos\n• Implementar solución para la recogida de datos clínicos\n• Generar contenido de educación para la salud en la web\n\nTecnologías: SharePoint, Power Apps, Power Automate, HTML, CSS"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Comunidad de Madrid"
+        },
+        "roles": [
+          {
+            "name": "Fisioterapeuta",
+            "startDate": "2012-01-01",
+            "finishDate": "2013-01-01",
+            "challenges": [
+              {
+                "description": "Voluntario en maratones de la Comunidad de Madrid."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "La Salle Campus Madrid"
+        },
+        "roles": [
+          {
+            "name": "Estudiante",
+            "startDate": "2011-01-01",
+            "finishDate": "2015-01-01",
+            "challenges": [
+              {
+                "description": "Skills: Trabajo en equipo · Microsoft PowerPoint"
               }
             ]
           }
@@ -120,6 +171,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Bootstrap",
           "type": "technology"
         }
@@ -127,6 +184,12 @@
       {
         "skill": {
           "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
           "type": "technology"
         }
       },
@@ -150,6 +213,12 @@
       },
       {
         "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Laravel",
           "type": "technology"
         }
@@ -162,7 +231,19 @@
       },
       {
         "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Mongoose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
           "type": "technology"
         }
       },
@@ -175,6 +256,12 @@
       {
         "skill": {
           "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
           "type": "technology"
         }
       },
@@ -195,6 +282,34 @@
           "name": "Redux",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bootcamp en Desarrollo Web Full-Stack, Desarrollo de aplicaciones web",
+        "startDate": "2022-11-01",
+        "institution": {
+          "name": "Ironhack"
+        },
+        "finishDate": "2023-05-31"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Training Full Stack - Programador Junior, Desarrollo de software",
+        "startDate": "2024-05-01",
+        "institution": {
+          "name": "OXYGEN Academy & Recruiting"
+        },
+        "finishDate": "2024-10-31"
       }
     ],
     "softSkills": [
